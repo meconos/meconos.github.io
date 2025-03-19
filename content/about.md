@@ -12,7 +12,7 @@ The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [K
 
 # News
 
-* Meeting in the *spring 2025* to be announced with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente).
+* Meeting in the *spring 2025* to be announced, with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente).
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 

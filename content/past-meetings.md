@@ -1,5 +1,5 @@
 ---
-title: "Past Meetings"
+title: "Past"
 ---
 
 # Past Meetings

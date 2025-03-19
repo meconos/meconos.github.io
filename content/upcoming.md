@@ -1,7 +1,7 @@
 ---
-title: "Upcoming Meetings"
+title: "Upcoming"
 ---
 
-# Upcoming Meeting on spring 2025 
+# Upcoming Meetings Spring 2025 
 
 * To be announced.
