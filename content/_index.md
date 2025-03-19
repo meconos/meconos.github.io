@@ -21,3 +21,5 @@ The seminar is co-organized by [Nuria Senar Villadeamigo](https://github.com/nur
 Sign up for announcements in our [Google Group Meconos](https://groups.google.com/g/meconos/about).
 
 This event is sponsored by the [Mathematical Statistics section of the VVSOR](https://www.vvsor.nl/mathematical-statistics/).
+
+<img src="/vvsorlogo.jpeg" alt="BigStatistics" width="400px"/>
