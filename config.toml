@@ -1,0 +1,62 @@
+# Global options
+baseurl = "https://AMSCausality.github.io/"
+canonifyurls = true
+languagecode = "en"
+theme = "crl-uai-2022-theme"
+disableKinds = ["taxonomyTerm"]
+
+# Params that are used in <head>
+[params]
+  supertitle = "Amsterdam"
+  title = "Causality Meeting"
+  subtitle = "Spring 2025"
+  author = "Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
+  description = "Causality meeting 2023 with VU, UvA, Amsterdam UMC and CWI"
+  keywords = ["seminar", "workshop", "meeting", "causality", "causal"]
+
+# Options for Markdown renderer
+[markup.goldmark.renderer]
+  unsafe = true
+  xHTML = true
+
+# Main menu
+# [[menu.main]]
+#     name = "Call for Papers"
+#     url  = "/call-for-papers"
+#     weight = 1
+[[menu.main]]
+    name = "About"
+    url  = "/index"
+    weight = 2
+[[menu.main]]
+    name = "Upcoming Meetings"
+    url  = "/upcoming"
+    weight = 3
+[[menu.main]]
+    name = "Past Meetings"
+    url  = "/past-meetings"
+    weight = 4
+[[menu.main]]
+    name = "Organisers"
+    url  = "/organisers-reviewers"
+    weight = 5
+[[menu.main]]
+    name = "Sponsors"
+    url  = "/sponsors"
+    weight = 6
+#[[menu.main]]
+#    name = "Past Workshops"
+#    url  = "/past-workshops"
+#    weight = 6
+#[[menu.main]]
+#    name = "Schedule and Format"
+#    url  = "/schedule-format"
+#    weight = 7
+#[[menu.main]]
+#    name = "Invited Speakers and Panelists"
+#    url  = "/invited-speakers"
+#    weight = 8
+# [[menu.main]]
+#     name = "Slides and Recording"
+#     url  = "/slides-recording"
+#     weight = 9
