@@ -6,7 +6,7 @@ title: "Organisers"
 
 <div class="list-of-people">
     <div class="person">
-        <img src="/senar.jpg">
+        <img src="/senar.jpeg">
         <a href="https://github.com/nuria-sv">Nuria Senar Villadeamigo</a>
     </div>
     <div class="person">
