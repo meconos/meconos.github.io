@@ -1,2 +1,2 @@
-# AMSCausality.github.io/
-Website for the Meeting on Causality between VU, UvA, Amsterdam UMC and CWI
+# meconos.github.io/
+Website for the Meconos seminar series on computational statistics

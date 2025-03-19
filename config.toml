@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://AMSCausality.github.io/"
+baseurl = "https://meconos.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
@@ -40,10 +40,10 @@ disableKinds = ["taxonomyTerm"]
     name = "Organisers"
     url  = "/organisers-reviewers"
     weight = 5
-[[menu.main]]
-    name = "Sponsors"
-    url  = "/sponsors"
-    weight = 6
+#[[menu.main]]
+#    name = "Sponsors"
+#    url  = "/sponsors"
+#    weight = 6
 #[[menu.main]]
 #    name = "Past Workshops"
 #    url  = "/past-workshops"

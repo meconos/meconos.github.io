@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://AMSCausality.github.io/"
+baseurl = "https://meconos.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
@@ -8,11 +8,11 @@ disableKinds = ["taxonomyTerm"]
 # Params that are used in <head>
 [params]
   supertitle = "Amsterdam"
-  title = "Causality Meeting"
+  title = "Meconos"
   subtitle = "Spring 2025"
-  author = "Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
-  description = "Causality meeting 2023 with VU, UvA, Amsterdam UMC and CWI"
-  keywords = ["seminar", "workshop", "meeting", "causality"]
+  author = "Nuria Senar Villadeamigo, Kayané Robach"
+  description = "Meconos seminar series in Amsterdam on computational statistics."
+  keywords = ["seminar", "workshop", "meeting", "computation", "statistics", "methodology"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
@@ -26,23 +26,23 @@ disableKinds = ["taxonomyTerm"]
 #     weight = 1
 [[menu.main]]
     name = "About"
-    url  = "/about"
+    url  = "/index"
     weight = 2
 [[menu.main]]
-    name = "Dates"
-    url  = "/dates"
+    name = "Upcoming Meetings"
+    url  = "/upcoming"
     weight = 3
 [[menu.main]]
     name = "Past Meetings"
     url  = "/past-meetings"
     weight = 4
+[[menu.main]]
+    name = "Organisers"
+    url  = "/organisers-reviewers"
+    weight = 5
 #[[menu.main]]
-#    name = "Organisers and Reviewers"
-#    url  = "/organisers-reviewers"
-#    weight = 5
-#[[menu.main]]
-#    name = "Accepted Papers"
-#    url  = "/accepted-papers"
+#    name = "Sponsors"
+#    url  = "/sponsors"
 #    weight = 6
 #[[menu.main]]
 #    name = "Past Workshops"
