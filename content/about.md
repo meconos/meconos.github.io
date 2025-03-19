@@ -6,7 +6,7 @@ The seminar series aims to bring together young researchers in computational sta
 
 Starting in spring 2025, the series will feature interactive events where a speaker discuss the development of a popular method, from its basics to current innovations. Participants will engage in brainstorming sessions and collaborative problem solving, diving into both theoretical and practical frameworks. Some drinks will follow afterwards.
 
-The seminar is co-organized by [Nuria Senar Villadeamigo](https://github.com/nuria-sv) and [Kayané Robach](https://kayanerobach.github.io/).
+The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [Kayané Robach](https://kayanerobach.github.io/).
 
 <img src="/MeconosLogoGif.gif" alt="Meconos Gif" width="400px"/>
 

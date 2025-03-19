@@ -11,6 +11,6 @@ title: "Organisers"
     </div>
     <div class="person">
         <img src="/robach.jpeg">
-        <a href="https://kayanerobach.github.io/">Kayané Robach</a>
+        <a href="https://kayanerobach.github.io/">Kayané Robach Elmayan</a>
     </div>
 
