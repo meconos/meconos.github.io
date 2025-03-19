@@ -6,16 +6,11 @@ title: "Organisers"
 
 <div class="list-of-people">
     <div class="person">
-        <img src="/sara.jpg">
-        <a href="https://saramagliacane.github.io/">Sara Magliacane</a>
+        <img src="/senar.jpg">
+        <a href="https://github.com/nuria-sv">Nuria Senar Villadeamigo</a>
     </div>
     <div class="person">
-        <img src="/stephanie.jpeg">
-        <a href="https://www.stephanievanderpas.nl/">Stéphanie van der Pas</a>
+        <img src="/robach.jpeg">
+        <a href="https://kayanerobach.github.io/">Kayané Robach</a>
     </div>
-    <div class="person">
-        <img src="/joris.jpeg">
-        <a href="https://staff.fnwi.uva.nl/j.m.mooij/">Joris M. Mooij</a>
-    </div>
-
 

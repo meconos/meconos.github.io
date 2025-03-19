@@ -8,11 +8,11 @@ disableKinds = ["taxonomyTerm"]
 # Params that are used in <head>
 [params]
   supertitle = "Amsterdam"
-  title = "Causality Meeting"
+  title = "Meconos"
   subtitle = "Spring 2025"
-  author = "Sara Magliacane, Joris Mooij, Stéphanie van der Pas"
-  description = "Causality meeting 2023 with VU, UvA, Amsterdam UMC and CWI"
-  keywords = ["seminar", "workshop", "meeting", "causality", "causal"]
+  author = "Nuria Senar Villadeamigo, Kayané Robach"
+  description = "Meconos seminar series in Amsterdam on computational statistics."
+  keywords = ["seminar", "workshop", "meeting", "computation", "statistics", "methodology"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
