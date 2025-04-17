@@ -8,17 +8,18 @@ Starting in spring 2025, the series will feature interactive events where a spea
 
 The seminar is co-organized by [Nuria Senar](https://github.com/nuria-sv) and [Kayané Robach](https://kayanerobach.github.io/).
 
-<img src="/MeconosLogoGif.gif" alt="Meconos Gif" width="400px"/>
+<img src="/comeeconLogoGif.gif" alt="CoMeEcon Gif" width="400px"/>
 
 # News
 
-* Meeting in the *spring 2025* to be announced, with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente).
+* Meeting in the *spring 2025* to be announced.
+<!--  , with <a href="https://gclara.gitlab.io/"> Gabriel Clara </a> (University of Twente). -->
 
 *Get more details about upcoming meetings [schedule and location](upcoming).*
 
 # Contact and Sponsors
 
-Sign up for announcements in our [Google Group Meconos](https://groups.google.com/g/meconos/about).
+Sign up for announcements in our [Google Group CoMeEcon](https://groups.google.com/g/comeecon/about).
 
 This event is sponsored by the [Mathematical Statistics section of the VVSOR](https://www.vvsor.nl/mathematical-statistics/).
 

@@ -1,2 +1,2 @@
-# meconos.github.io/
-Website for the Meconos seminar series on computational statistics
+# comeecon.github.io/
+Website for the [CoMeEcon seminar series on computational statistics](https://comeecon.github.io/)

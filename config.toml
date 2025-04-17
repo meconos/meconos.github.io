@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://meconos.github.io/"
+baseurl = "https://comeecon.github.io/"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
@@ -8,10 +8,10 @@ disableKinds = ["taxonomyTerm"]
 # Params that are used in <head>
 [params]
   supertitle = "Amsterdam"
-  title = "Meconos"
+  title = "CoMeEcon"
   subtitle = "Spring 2025"
   author = "Nuria Senar Villadeamigo, Kayané Robach"
-  description = "Meconos seminar series in Amsterdam on computational statistics."
+  description = "CoMeEcon seminar series in Amsterdam on computational statistics."
   keywords = ["seminar", "workshop", "meeting", "computation", "statistics", "methodology"]
 
 # Options for Markdown renderer
